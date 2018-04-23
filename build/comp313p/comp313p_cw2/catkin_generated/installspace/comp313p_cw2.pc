@@ -1,0 +1,8 @@
+prefix=/home/tahlia/cw2_redo/install
+
+Name: comp313p_cw2
+Description: Description of comp313p_cw2
+Version: 2018.3.1
+Cflags: 
+Libs: -L/home/tahlia/cw2_redo/install/lib 
+Requires: 

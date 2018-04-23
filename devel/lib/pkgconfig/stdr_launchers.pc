@@ -1,0 +1,8 @@
+prefix=/home/tahlia/cw2_redo/devel
+
+Name: stdr_launchers
+Description: Description of stdr_launchers
+Version: 0.3.2
+Cflags: 
+Libs: -L/home/tahlia/cw2_redo/devel/lib 
+Requires: 

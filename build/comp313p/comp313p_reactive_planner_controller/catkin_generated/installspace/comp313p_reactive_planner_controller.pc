@@ -1,0 +1,8 @@
+prefix=/home/tahlia/cw2_redo/install
+
+Name: comp313p_reactive_planner_controller
+Description: Description of comp313p_reactive_planner_controller
+Version: 1.0.0
+Cflags: -I/home/tahlia/cw2_redo/install/include
+Libs: -L/home/tahlia/cw2_redo/install/lib 
+Requires: 
